@@ -1,6 +1,6 @@
 # XML-Extract
 
-This project was created with .NET Core 2.0 (via VSCode).
+This project was created with This project was created with [.NET Core 2.0](https://dotnet.microsoft.com/download/dotnet-core/2.0) (via VSCode).
 
 There are two projects.
 
